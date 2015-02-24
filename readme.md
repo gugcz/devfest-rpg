@@ -16,4 +16,4 @@ Devfest RPG is a community effort and we appreciate the help of everyone who wan
 
 &copy; 2014 [tivvit.cz](http://tivvit.cz), [David Vávra](http://google.com/+DavidVávra)
 
-Released under Apache 2.0 license
+Released under [MIT licence](https://github.com/gugcz/devfest-rpg/blob/master/LICENSE)
